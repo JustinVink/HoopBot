@@ -12,7 +12,7 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
-    if (message.content === 'Who is fat?') {
+    if (message.content === 'Who-is-fat') {
     	message.reply('GoDed for sure');
   	}
 });
