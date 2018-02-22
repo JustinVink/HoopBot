@@ -14,6 +14,8 @@ client.on('message', message => {
 client.on('message', message => {
     if (message.content === 'bloep') {
     	message.reply('blap');
+    if (message.content === 'blup') {
+    	message.reply('blob');
   	}
 });
 
