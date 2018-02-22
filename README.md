@@ -1,0 +1,2 @@
+# HoopBot
+Discord Bot
