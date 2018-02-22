@@ -12,8 +12,8 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
-    if (message.content === 'bloep') {
-    	message.reply('blap');
+    if (message.content === 'Who is fat?') {
+    	message.reply('GoDed for sure');
   	}
 });
 
