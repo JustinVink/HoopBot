@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "Hoop",
+  "description": "Who needs hoop?",
   "version": "0.0.1",
   "main": "bot.js",
   "scripts": {
